@@ -12,6 +12,7 @@
 | Questionário Unidade 1 | 0,5 / 0,5 | ✅ |
 | Questionário Unidade 2 | 0,5 / 0,5 | ✅ |
 | Questionário Unidade 3 | 0,5 / 0,5 | ✅ |
+| Questionário Unidade 4 | 0,44 / 0,5 | ✅ |
 | **Nota Final Calculada** | **9,94 / 10** | 🥇 |
 
 > *"Eduardo, sua entrega apresentou um nível técnico extremamente elevado e foi uma das atividades mais completas e profissionais em relação aos requisitos propostos no roteiro da disciplina."*
